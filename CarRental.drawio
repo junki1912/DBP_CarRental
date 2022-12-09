@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-18T07:48:38.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.42" etag="-vn9yIzeBhvl8Q0yWtW4" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-09T06:49:40.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="dC80UtnpxqM_vrbSc9x4" version="20.6.2" type="github">
   <diagram id="mi_-ZQehVm5hkTrK3aVX" name="페이지-1">
-    <mxGraphModel dx="1526" dy="905" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2053" dy="980" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -231,22 +231,13 @@
         <mxCell id="UWjVoxOY0lEVRb8bXtiW-61" value="대여번호" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="505" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UWjVoxOY0lEVRb8bXtiW-62" value="대여시작시간" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UWjVoxOY0lEVRb8bXtiW-62" value="대여시작" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="664.5" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="UWjVoxOY0lEVRb8bXtiW-63" value="대여시작일" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="585" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="UWjVoxOY0lEVRb8bXtiW-64" value="대여종료일" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="UWjVoxOY0lEVRb8bXtiW-64" value="대여종료" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="500" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UWjVoxOY0lEVRb8bXtiW-67" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UWjVoxOY0lEVRb8bXtiW-62" target="UWjVoxOY0lEVRb8bXtiW-22" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="650" as="sourcePoint" />
-            <mxPoint x="500" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UWjVoxOY0lEVRb8bXtiW-68" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UWjVoxOY0lEVRb8bXtiW-63" target="UWjVoxOY0lEVRb8bXtiW-22" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="650" as="sourcePoint" />
             <mxPoint x="500" y="600" as="targetPoint" />
@@ -258,19 +249,10 @@
             <mxPoint x="500" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UWjVoxOY0lEVRb8bXtiW-70" value="대여종료시간" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="580" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="UWjVoxOY0lEVRb8bXtiW-71" value="대여금액" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="480" y="660" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="UWjVoxOY0lEVRb8bXtiW-72" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="UWjVoxOY0lEVRb8bXtiW-22" target="UWjVoxOY0lEVRb8bXtiW-71" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="650" as="sourcePoint" />
-            <mxPoint x="500" y="600" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UWjVoxOY0lEVRb8bXtiW-73" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="UWjVoxOY0lEVRb8bXtiW-22" target="UWjVoxOY0lEVRb8bXtiW-70" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="450" y="650" as="sourcePoint" />
             <mxPoint x="500" y="600" as="targetPoint" />
@@ -282,10 +264,10 @@
             <mxPoint x="500" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ye7bIXUqn27nmQmDc6Kb-1" value="자동차" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ye7bIXUqn27nmQmDc6Kb-1" value="자동차" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="410" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ye7bIXUqn27nmQmDc6Kb-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;관리&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ye7bIXUqn27nmQmDc6Kb-2" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;관리&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="539.84" y="410" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
